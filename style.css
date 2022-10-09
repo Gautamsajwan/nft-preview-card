@@ -21,11 +21,11 @@ body {
     align-items: center;
 }
 
-#Container {
+.Container {
     max-width: 375px;
     background-color: hsl(216, 50%, 16%);
     margin: 3rem;
-    padding: 1.7em;
+    padding: 1.5em;
     border-radius: 20px;
     overflow: hidden;
     font-family: var(--font);
